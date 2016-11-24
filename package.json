@@ -1,0 +1,24 @@
+{
+    "name": "csi",
+    "version": "1.0.0",
+    "description": "Provide clean and simple client side include",
+    "main": "csi.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "client side include",
+        "web side include"
+    ],
+    "author": "john202020",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/john202020/csi.git"
+    },
+    "dependencies": {
+        "jquery": "^3.1.0"
+    }
+}
+
+

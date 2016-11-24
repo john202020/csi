@@ -1,0 +1,12 @@
+*.csproj.user
+bin
+obj
+*.pdb
+desktop.ini
+.DS_Store
+npm-debug.log
+node_modules
+dist
+test.js
+webpack.config.js
+start.js
